@@ -17,3 +17,5 @@ You can use your own HTML file, you just need to use same identifiers from `exam
 
 ## How to use
 Add your tags and separate them by `,` or by pressing `enter` key.
+
+You can try this plugin here : http://websites.julian-didier.fr/tag-color-picker/example.html
